@@ -1,0 +1,18 @@
+{
+  "name": "@pedroavj/reminders",
+  "version": "0.3.6",
+  "private": true,
+  "description": "Manage Apple Reminders through direct APIs first and deterministic AppleScript Accessibility for UI-only features.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroAVJ/reminders.git"
+  },
+  "homepage": "https://github.com/PedroAVJ/reminders#readme",
+  "bugs": {
+    "url": "https://github.com/PedroAVJ/reminders/issues"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}

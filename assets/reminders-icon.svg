@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" role="img" aria-label="Task reminders">
+  <title>Task reminders</title>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#9A5D12"/>
+  <g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m14 19 4 4 7-9M33 20h17M14 34l4 4 7-9M33 35h17M33 49h17"/><circle cx="19" cy="49" r="3"/></g>
+</svg>

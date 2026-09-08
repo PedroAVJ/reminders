@@ -1,0 +1,43 @@
+{
+  "name": "reminders",
+  "version": "0.3.6",
+  "description": "Manage Apple Reminders through direct APIs first and deterministic AppleScript Accessibility for UI-only features.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/reminders",
+  "repository": "https://github.com/PedroAVJ/reminders",
+  "license": "MIT",
+  "keywords": [
+    "apple-reminders",
+    "remindctl",
+    "applescript",
+    "accessibility",
+    "tags",
+    "smart-lists"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Reminders",
+    "shortDescription": "Manage Apple Reminders without visual automation",
+    "longDescription": "Create, inspect, edit, complete, and organize Apple Reminders. Use remindctl or EventKit for semantic operations, then deterministic AppleScript Accessibility for native tags, custom Smart Lists, and other UI-only fields before falling back to model-driven Computer Use.",
+    "developerName": "PedroAVJ",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/PedroAVJ/reminders",
+    "defaultPrompt": [
+      "Add or edit an Apple Reminder",
+      "Organize my reminders with tags",
+      "Create a custom Reminders Smart List"
+    ],
+    "brandColor": "#FF9F0A",
+    "composerIcon": "./assets/reminders-icon.svg",
+    "logo": "./assets/reminders-icon.svg",
+    "screenshots": []
+  }
+}

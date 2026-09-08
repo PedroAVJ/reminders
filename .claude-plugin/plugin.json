@@ -1,0 +1,21 @@
+{
+  "name": "reminders",
+  "version": "0.3.6",
+  "description": "Manage Apple Reminders through direct APIs first and deterministic AppleScript Accessibility for UI-only features.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/reminders",
+  "repository": "https://github.com/PedroAVJ/reminders",
+  "license": "MIT",
+  "keywords": [
+    "apple-reminders",
+    "remindctl",
+    "applescript",
+    "accessibility",
+    "tags",
+    "smart-lists"
+  ],
+  "skills": "./skills/"
+}
